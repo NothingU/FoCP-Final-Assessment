@@ -102,19 +102,6 @@ Shortest Visit:       0 Hours, 5 Minutes
 
 ```text
 PS C:\Users\hp\OneDrive\Desktop\Task 2> python cat_shelter.py shelter_2023-08-25.log
-
-OURS,837.5,867.9
-Skipped! Non-integer entry or exit time.
-----------------------------------------
-
-THEIRS,882,881
-Skipped! Entry time is greater than exit time.
-----------------------------------------------
-
-WHOSE,904,934
-Skipped! Unrecognized cat type
-------------------------------
-
 Log File Analysis
 ==================
 Cat Visits: 11
